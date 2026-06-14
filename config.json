@@ -1,3 +1,5 @@
 {
-  "SERVER_API": "http://tr4svloid28.panelkuy.my.id:2007"
+  "baseUrl": "http://tr4svloid28.panelkuy.my.id:2007",
+  "wsUrl": "wss://ws-tr4svloid28.panelkuy.my.id:2007",
+  "socketUrl": "http://tr4svloid28.panelkuy.my.id:2007"
 }
